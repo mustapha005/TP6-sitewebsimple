@@ -10,6 +10,7 @@
 2. [Fonctionnalités](#fonctionnalités)
 3. [Technologies utilisées](#technologies-utilisées)
 4. [Installation](#installation)
+5. [Captures d'écran]
 
 
 ---
@@ -63,7 +64,9 @@ Application web complète permettant de gérer une liste d'utilisateurs avec les
 | CORS | 2.x | Gestion des requêtes cross-origin |
 | Nodemon | 3.x | Rechargement automatique |
 
+##Captures d'écran
 ---
+<img width="1885" height="775" alt="image" src="https://github.com/user-attachments/assets/ff7b21bd-4de9-4f3a-ab9f-85a440876e5f" />
 
 ## 💻 Installation
 
