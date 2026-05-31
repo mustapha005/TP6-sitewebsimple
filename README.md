@@ -10,11 +10,7 @@
 2. [Fonctionnalités](#fonctionnalités)
 3. [Technologies utilisées](#technologies-utilisées)
 4. [Installation](#installation)
-5. [Lancement du projet](#lancement-du-projet)
-6. [Structure du projet](#structure-du-projet)
-7. [API Endpoints](#api-endpoints)
-8. [Captures d'écran](#captures-décran)
-9. [Auteur](#auteur)
+
 
 ---
 
