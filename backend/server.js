@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Données en mémoire (simule une base de données)
+// Donnée en mémoire (simule une base de données)
 let users = [
   { id: 1, nom: 'Fatima', email: 'fatima@example.com' },
   { id: 2, nom: 'Omar', email: 'omar@example.com' }
