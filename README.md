@@ -1,4 +1,4 @@
-# 📋 TP6 - Application CRUD Complète
+# 📋 TP6 -- Application CRUD Complète
 
 ## React.js + Express.js
 
